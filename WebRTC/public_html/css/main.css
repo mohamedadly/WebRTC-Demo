@@ -1,0 +1,13 @@
+/* 
+    Created on : Oct 23, 2016, 2:30:20 PM
+    Author     : madly
+*/
+
+body {
+    font-family: sans-serif;
+}
+
+video {
+    max-width: 100%;
+    width: 320px;
+}
